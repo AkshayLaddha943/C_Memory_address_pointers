@@ -12,3 +12,4 @@ int myAge = 43;
 printf("%p", &myAge)
 
 ```
+&myAge is often called a "pointer". A pointer basically stores the memory address of a variable as its value.
